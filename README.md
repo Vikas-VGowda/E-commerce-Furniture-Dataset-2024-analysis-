@@ -1,7 +1,7 @@
 
 #  E-commerce Furniture Data Analysis & Sales Prediction
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on analyzing an e-commerce furniture dataset to understand pricing patterns, sales behavior, and the impact of shipping types on product performance.
 
@@ -9,7 +9,7 @@ The project performs end-to-end data analysis including data cleaning, explorato
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Analyze the distribution of furniture product prices  
 - Understand the relationship between price and units sold  
@@ -20,7 +20,7 @@ The project performs end-to-end data analysis including data cleaning, explorato
 
 ---
 
-## 🗂 Dataset
+##  Dataset
 
 - **Source:** E-commerce Furniture Dataset  
 - **Records:** ~2000 products  
@@ -29,7 +29,7 @@ The project performs end-to-end data analysis including data cleaning, explorato
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 ### Key insights:
 
@@ -42,14 +42,14 @@ EDA was supported with visualizations such as histograms, boxplots, scatter plot
 
 ---
 
-## 🤖 Machine Learning Approach
+##  Machine Learning Approach
 
-### 📌 Models Implemented
+###  Models Implemented
 
 - Random Forest Regressor  
 - XGBoost Regressor  
 
-### ⚙️ Key Techniques
+###  Key Techniques
 
 - Data cleaning and preprocessing  
 - Handling missing values  
@@ -59,17 +59,17 @@ EDA was supported with visualizations such as histograms, boxplots, scatter plot
 
 ---
 
-## 📊 Model Performance
+##  Model Performance
 
 - Models produced low or negative R² scores  
 - High prediction errors (MSE) observed  
 - XGBoost did not improve performance despite being an advanced model  
 
-👉 This indicates that the dataset lacks sufficient features for accurate prediction.
+ This indicates that the dataset lacks sufficient features for accurate prediction.
 
 ---
 
-## 🧠 Business Usage
+## Business Usage
 
 This project can help e-commerce platforms to:
 
@@ -80,7 +80,7 @@ This project can help e-commerce platforms to:
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - Limited dataset features (only price and shipping type)  
 - Missing important variables like ratings, reviews, and product category  
@@ -90,7 +90,7 @@ This project can help e-commerce platforms to:
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 - Python  
 - Pandas, NumPy  
@@ -100,7 +100,7 @@ This project can help e-commerce platforms to:
 
 ---
 
-## 📁 Repository Contents
+##  Repository Contents
 
 - `furniture.ipynb` → Complete analysis and ML model  
 - `ecommerce_furniture_dataset_2024.csv` → Dataset used  
@@ -108,14 +108,14 @@ This project can help e-commerce platforms to:
 
 ---
 
-## 👤 Author
+##  Author
 
 **Vikas Gowda V**  
 Aspiring Data Analyst / Data Scientist  
 
 ---
 
-## ⭐ Conclusion
+##  Conclusion
 
 This project presents a complete data analysis and machine learning workflow on an e-commerce furniture dataset. Through exploratory data analysis (EDA), meaningful insights were obtained regarding price distribution, sales patterns, and the impact of shipping types.
 
